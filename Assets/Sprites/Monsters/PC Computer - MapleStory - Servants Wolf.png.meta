@@ -1,0 +1,1210 @@
+fileFormatVersion: 2
+guid: 717512dddfaac524eb15b34a7a327e55
+timeCreated: 1512518744
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PC Computer - MapleStory - Servants Wolf_0
+    21300002: PC Computer - MapleStory - Servants Wolf_1
+    21300004: PC Computer - MapleStory - Servants Wolf_2
+    21300006: PC Computer - MapleStory - Servants Wolf_3
+    21300008: PC Computer - MapleStory - Servants Wolf_4
+    21300010: PC Computer - MapleStory - Servants Wolf_5
+    21300012: PC Computer - MapleStory - Servants Wolf_6
+    21300014: PC Computer - MapleStory - Servants Wolf_7
+    21300016: PC Computer - MapleStory - Servants Wolf_8
+    21300018: PC Computer - MapleStory - Servants Wolf_9
+    21300020: PC Computer - MapleStory - Servants Wolf_10
+    21300022: PC Computer - MapleStory - Servants Wolf_11
+    21300024: PC Computer - MapleStory - Servants Wolf_12
+    21300026: PC Computer - MapleStory - Servants Wolf_13
+    21300028: PC Computer - MapleStory - Servants Wolf_14
+    21300030: PC Computer - MapleStory - Servants Wolf_15
+    21300032: PC Computer - MapleStory - Servants Wolf_16
+    21300034: PC Computer - MapleStory - Servants Wolf_17
+    21300036: PC Computer - MapleStory - Servants Wolf_18
+    21300038: PC Computer - MapleStory - Servants Wolf_19
+    21300040: PC Computer - MapleStory - Servants Wolf_20
+    21300042: PC Computer - MapleStory - Servants Wolf_21
+    21300044: PC Computer - MapleStory - Servants Wolf_22
+    21300046: PC Computer - MapleStory - Servants Wolf_23
+    21300048: PC Computer - MapleStory - Servants Wolf_24
+    21300050: PC Computer - MapleStory - Servants Wolf_25
+    21300052: PC Computer - MapleStory - Servants Wolf_26
+    21300054: PC Computer - MapleStory - Servants Wolf_27
+    21300056: PC Computer - MapleStory - Servants Wolf_28
+    21300058: PC Computer - MapleStory - Servants Wolf_29
+    21300060: PC Computer - MapleStory - Servants Wolf_30
+    21300062: PC Computer - MapleStory - Servants Wolf_31
+    21300064: PC Computer - MapleStory - Servants Wolf_32
+    21300066: PC Computer - MapleStory - Servants Wolf_33
+    21300068: PC Computer - MapleStory - Servants Wolf_34
+    21300070: PC Computer - MapleStory - Servants Wolf_35
+    21300072: PC Computer - MapleStory - Servants Wolf_36
+    21300074: PC Computer - MapleStory - Servants Wolf_37
+    21300076: PC Computer - MapleStory - Servants Wolf_38
+    21300078: PC Computer - MapleStory - Servants Wolf_39
+    21300080: PC Computer - MapleStory - Servants Wolf_40
+    21300082: PC Computer - MapleStory - Servants Wolf_41
+    21300084: PC Computer - MapleStory - Servants Wolf_42
+    21300086: PC Computer - MapleStory - Servants Wolf_43
+    21300088: PC Computer - MapleStory - Servants Wolf_44
+    21300090: PC Computer - MapleStory - Servants Wolf_45
+    21300092: PC Computer - MapleStory - Servants Wolf_46
+    21300094: PC Computer - MapleStory - Servants Wolf_47
+    21300096: PC Computer - MapleStory - Servants Wolf_48
+    21300098: PC Computer - MapleStory - Servants Wolf_49
+    21300100: PC Computer - MapleStory - Servants Wolf_50
+    21300102: PC Computer - MapleStory - Servants Wolf_51
+    21300104: PC Computer - MapleStory - Servants Wolf_52
+    21300106: PC Computer - MapleStory - Servants Wolf_53
+    21300108: PC Computer - MapleStory - Servants Wolf_54
+    21300110: PC Computer - MapleStory - Servants Wolf_55
+    21300112: PC Computer - MapleStory - Servants Wolf_56
+    21300114: PC Computer - MapleStory - Servants Wolf_57
+    21300116: PC Computer - MapleStory - Servants Wolf_58
+    21300118: PC Computer - MapleStory - Servants Wolf_59
+    21300120: PC Computer - MapleStory - Servants Wolf_60
+    21300122: PC Computer - MapleStory - Servants Wolf_61
+    21300124: PC Computer - MapleStory - Servants Wolf_62
+    21300126: PC Computer - MapleStory - Servants Wolf_63
+    21300128: PC Computer - MapleStory - Servants Wolf_64
+    21300130: PC Computer - MapleStory - Servants Wolf_65
+    21300132: PC Computer - MapleStory - Servants Wolf_66
+    21300134: PC Computer - MapleStory - Servants Wolf_67
+    21300136: PC Computer - MapleStory - Servants Wolf_68
+    21300138: PC Computer - MapleStory - Servants Wolf_69
+    21300140: PC Computer - MapleStory - Servants Wolf_70
+    21300142: PC Computer - MapleStory - Servants Wolf_71
+    21300144: PC Computer - MapleStory - Servants Wolf_72
+    21300146: PC Computer - MapleStory - Servants Wolf_73
+    21300148: PC Computer - MapleStory - Servants Wolf_74
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 457
+        width: 112
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_1
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 457
+        width: 128
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_2
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 457
+        width: 130
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_3
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 457
+        width: 138
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_4
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 457
+        width: 137
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_5
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 489
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_6
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 457
+        width: 111
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_7
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 475
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_8
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 467
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_9
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 472
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_10
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 390
+        width: 111
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_11
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 390
+        width: 107
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_12
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 390
+        width: 115
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_13
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 390
+        width: 108
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_14
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 283
+        width: 112
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_15
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 282
+        width: 125
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_16
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 272
+        width: 126
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_17
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 272
+        width: 135
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_18
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 273
+        width: 135
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_19
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 272
+        width: 133
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_20
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 279
+        width: 201
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_21
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 279
+        width: 210
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_22
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 278
+        width: 222
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_23
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 278
+        width: 215
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_24
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 279
+        width: 159
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_25
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 279
+        width: 157
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_26
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 282
+        width: 116
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_27
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 175
+        width: 123
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_28
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 178
+        width: 111
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_29
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 243
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_30
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 233
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_31
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 245
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_32
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 243
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_33
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 237
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_34
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 245
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_35
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 234
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_36
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 232
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_37
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 237
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_38
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 233
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_39
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 233
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_40
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 232
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_41
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 232
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_42
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 230
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_43
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 232
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_44
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 231
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_45
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 178
+        width: 111
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_46
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 220
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_47
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 214
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_48
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 224
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_49
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 218
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_50
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 183
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_51
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 181
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_52
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 178
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_53
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 190
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_54
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 185
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_55
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 91
+        width: 119
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_56
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 121
+        width: 73
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_57
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 120
+        width: 63
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_58
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 100
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_59
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 100
+        width: 91
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_60
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 7
+        width: 119
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_61
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 6
+        width: 126
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_62
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 19
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_63
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 9
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_64
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 4
+        width: 122
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_65
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 20
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_66
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 7
+        width: 119
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_67
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 7
+        width: 120
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_68
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 7
+        width: 109
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_69
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 5
+        width: 117
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_70
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 4
+        width: 117
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_71
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 4
+        width: 117
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_72
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 4
+        width: 117
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_73
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 12
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Servants Wolf_74
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 12
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,475 @@
+fileFormatVersion: 2
+guid: cc6cac250a2fbeb4bbc94b67afbed525
+timeCreated: 1511972293
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PC Computer - Dont Starve - Bird Cage_0
+    21300002: PC Computer - Dont Starve - Bird Cage_1
+    21300004: PC Computer - Dont Starve - Bird Cage_2
+    21300006: PC Computer - Dont Starve - Bird Cage_3
+    21300008: PC Computer - Dont Starve - Bird Cage_4
+    21300010: PC Computer - Dont Starve - Bird Cage_5
+    21300012: PC Computer - Dont Starve - Bird Cage_6
+    21300014: PC Computer - Dont Starve - Bird Cage_7
+    21300016: PC Computer - Dont Starve - Bird Cage_8
+    21300018: PC Computer - Dont Starve - Bird Cage_9
+    21300020: PC Computer - Dont Starve - Bird Cage_10
+    21300022: PC Computer - Dont Starve - Bird Cage_11
+    21300024: PC Computer - Dont Starve - Bird Cage_12
+    21300026: PC Computer - Dont Starve - Bird Cage_13
+    21300028: PC Computer - Dont Starve - Bird Cage_14
+    21300030: PC Computer - Dont Starve - Bird Cage_15
+    21300032: PC Computer - Dont Starve - Bird Cage_16
+    21300034: PC Computer - Dont Starve - Bird Cage_17
+    21300036: PC Computer - Dont Starve - Bird Cage_18
+    21300038: PC Computer - Dont Starve - Bird Cage_19
+    21300040: PC Computer - Dont Starve - Bird Cage_20
+    21300042: PC Computer - Dont Starve - Bird Cage_21
+    21300044: PC Computer - Dont Starve - Bird Cage_22
+    21300046: PC Computer - Dont Starve - Bird Cage_23
+    21300048: PC Computer - Dont Starve - Bird Cage_24
+    21300050: PC Computer - Dont Starve - Bird Cage_25
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Dont Starve - Bird Cage_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 251
+        width: 174
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Dont Starve - Bird Cage_1
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 284
+        width: 162
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Dont Starve - Bird Cage_2
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 301
+        width: 172
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Dont Starve - Bird Cage_3
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 235
+        width: 29
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Dont Starve - Bird Cage_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 194
+        width: 122
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Dont Starve - Bird Cage_5
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 187
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Dont Starve - Bird Cage_6
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 239
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Dont Starve - Bird Cage_7
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 134
+        width: 87
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Dont Starve - Bird Cage_8
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 224
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Dont Starve - Bird Cage_9
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 213
+        width: 30
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Dont Starve - Bird Cage_10
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 158
+        width: 142
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Dont Starve - Bird Cage_11
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 218
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Dont Starve - Bird Cage_12
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 225
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Dont Starve - Bird Cage_13
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 178
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Dont Starve - Bird Cage_14
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 179
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Dont Starve - Bird Cage_15
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 194
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Dont Starve - Bird Cage_16
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 194
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Dont Starve - Bird Cage_17
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 148
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Dont Starve - Bird Cage_18
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 138
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Dont Starve - Bird Cage_19
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 150
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Dont Starve - Bird Cage_20
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 140
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Dont Starve - Bird Cage_21
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 182
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Dont Starve - Bird Cage_22
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 149
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Dont Starve - Bird Cage_23
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 170
+        width: 27
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Dont Starve - Bird Cage_24
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 170
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Dont Starve - Bird Cage_25
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 143
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

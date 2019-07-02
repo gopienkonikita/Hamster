@@ -1,0 +1,820 @@
+fileFormatVersion: 2
+guid: 4e3727caaeaa6ca4da8b9795144dc270
+timeCreated: 1512943553
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PC Computer - MapleStory - Pharaoh Snake_0
+    21300002: PC Computer - MapleStory - Pharaoh Snake_1
+    21300004: PC Computer - MapleStory - Pharaoh Snake_2
+    21300006: PC Computer - MapleStory - Pharaoh Snake_3
+    21300008: PC Computer - MapleStory - Pharaoh Snake_4
+    21300010: PC Computer - MapleStory - Pharaoh Snake_5
+    21300012: PC Computer - MapleStory - Pharaoh Snake_6
+    21300014: PC Computer - MapleStory - Pharaoh Snake_7
+    21300016: PC Computer - MapleStory - Pharaoh Snake_8
+    21300018: PC Computer - MapleStory - Pharaoh Snake_9
+    21300020: PC Computer - MapleStory - Pharaoh Snake_10
+    21300022: PC Computer - MapleStory - Pharaoh Snake_11
+    21300024: PC Computer - MapleStory - Pharaoh Snake_12
+    21300026: PC Computer - MapleStory - Pharaoh Snake_13
+    21300028: PC Computer - MapleStory - Pharaoh Snake_14
+    21300030: PC Computer - MapleStory - Pharaoh Snake_15
+    21300032: PC Computer - MapleStory - Pharaoh Snake_16
+    21300034: PC Computer - MapleStory - Pharaoh Snake_17
+    21300036: PC Computer - MapleStory - Pharaoh Snake_18
+    21300038: PC Computer - MapleStory - Pharaoh Snake_28
+    21300040: PC Computer - MapleStory - Pharaoh Snake_29
+    21300042: PC Computer - MapleStory - Pharaoh Snake_30
+    21300044: PC Computer - MapleStory - Pharaoh Snake_31
+    21300046: PC Computer - MapleStory - Pharaoh Snake_32
+    21300048: PC Computer - MapleStory - Pharaoh Snake_33
+    21300050: PC Computer - MapleStory - Pharaoh Snake_34
+    21300052: PC Computer - MapleStory - Pharaoh Snake_35
+    21300054: PC Computer - MapleStory - Pharaoh Snake_36
+    21300056: PC Computer - MapleStory - Pharaoh Snake_37
+    21300058: PC Computer - MapleStory - Pharaoh Snake_38
+    21300060: PC Computer - MapleStory - Pharaoh Snake_39
+    21300062: PC Computer - MapleStory - Pharaoh Snake_40
+    21300064: PC Computer - MapleStory - Pharaoh Snake_41
+    21300066: PC Computer - MapleStory - Pharaoh Snake_42
+    21300068: PC Computer - MapleStory - Pharaoh Snake_43
+    21300070: PC Computer - MapleStory - Pharaoh Snake_44
+    21300072: PC Computer - MapleStory - Pharaoh Snake_45
+    21300074: PC Computer - MapleStory - Pharaoh Snake_46
+    21300076: PC Computer - MapleStory - Pharaoh Snake_47
+    21300078: PC Computer - MapleStory - Pharaoh Snake_48
+    21300080: PC Computer - MapleStory - Pharaoh Snake_49
+    21300082: PC Computer - MapleStory - Pharaoh Snake_50
+    21300084: PC Computer - MapleStory - Pharaoh Snake_51
+    21300086: PC Computer - MapleStory - Pharaoh Snake_52
+    21300088: PC Computer - MapleStory - Pharaoh Snake_53
+    21300090: PC Computer - MapleStory - Pharaoh Snake_54
+    21300092: PC Computer - MapleStory - Pharaoh Snake_55
+    21300094: PC Computer - MapleStory - Pharaoh Snake_56
+    21300096: PC Computer - MapleStory - Pharaoh Snake_19
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pharaoh Snake_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 694
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pharaoh Snake_1
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 694
+        width: 86
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pharaoh Snake_2
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 694
+        width: 86
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pharaoh Snake_3
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 694
+        width: 84
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pharaoh Snake_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 694
+        width: 86
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pharaoh Snake_5
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 694
+        width: 86
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pharaoh Snake_6
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 694
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pharaoh Snake_7
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 694
+        width: 86
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pharaoh Snake_8
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 694
+        width: 86
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pharaoh Snake_9
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 694
+        width: 84
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pharaoh Snake_10
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 694
+        width: 86
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pharaoh Snake_11
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 694
+        width: 86
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pharaoh Snake_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 611
+        width: 87
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pharaoh Snake_13
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 611
+        width: 83
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pharaoh Snake_14
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 611
+        width: 79
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pharaoh Snake_15
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 611
+        width: 75
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pharaoh Snake_16
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 611
+        width: 79
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pharaoh Snake_17
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 611
+        width: 83
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pharaoh Snake_18
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 514
+        width: 76
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pharaoh Snake_28
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 432
+        width: 87
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pharaoh Snake_29
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 432
+        width: 83
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pharaoh Snake_30
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 432
+        width: 79
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pharaoh Snake_31
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 432
+        width: 75
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pharaoh Snake_32
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 432
+        width: 79
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pharaoh Snake_33
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 432
+        width: 83
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pharaoh Snake_34
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 329
+        width: 84
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pharaoh Snake_35
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 221
+        width: 84
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pharaoh Snake_36
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 221
+        width: 84
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pharaoh Snake_37
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 221
+        width: 77
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pharaoh Snake_38
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 221
+        width: 81
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pharaoh Snake_39
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 221
+        width: 87
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pharaoh Snake_40
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 221
+        width: 98
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pharaoh Snake_41
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 221
+        width: 98
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pharaoh Snake_42
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 115
+        width: 84
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pharaoh Snake_43
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 115
+        width: 92
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pharaoh Snake_44
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 115
+        width: 83
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pharaoh Snake_45
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 150
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pharaoh Snake_46
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 115
+        width: 84
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pharaoh Snake_47
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 136
+        width: 81
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pharaoh Snake_48
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 115
+        width: 72
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pharaoh Snake_49
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 115
+        width: 81
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pharaoh Snake_50
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 8
+        width: 84
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pharaoh Snake_51
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 8
+        width: 92
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pharaoh Snake_52
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 43
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pharaoh Snake_53
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 8
+        width: 108
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pharaoh Snake_54
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 29
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pharaoh Snake_55
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 8
+        width: 72
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pharaoh Snake_56
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 8
+        width: 81
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Pharaoh Snake_19
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 538
+        width: 176
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,460 @@
+fileFormatVersion: 2
+guid: d14a5a898bff2714db2605012ba045a1
+timeCreated: 1512943981
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PSP - Lunar Silver Star Harmony - Scorpion_0
+    21300002: PSP - Lunar Silver Star Harmony - Scorpion_1
+    21300004: PSP - Lunar Silver Star Harmony - Scorpion_2
+    21300006: PSP - Lunar Silver Star Harmony - Scorpion_3
+    21300008: PSP - Lunar Silver Star Harmony - Scorpion_4
+    21300010: PSP - Lunar Silver Star Harmony - Scorpion_5
+    21300012: PSP - Lunar Silver Star Harmony - Scorpion_6
+    21300014: PSP - Lunar Silver Star Harmony - Scorpion_7
+    21300016: PSP - Lunar Silver Star Harmony - Scorpion_8
+    21300018: PSP - Lunar Silver Star Harmony - Scorpion_9
+    21300020: PSP - Lunar Silver Star Harmony - Scorpion_10
+    21300022: PSP - Lunar Silver Star Harmony - Scorpion_11
+    21300024: PSP - Lunar Silver Star Harmony - Scorpion_12
+    21300026: PSP - Lunar Silver Star Harmony - Scorpion_13
+    21300028: PSP - Lunar Silver Star Harmony - Scorpion_14
+    21300030: PSP - Lunar Silver Star Harmony - Scorpion_15
+    21300032: PSP - Lunar Silver Star Harmony - Scorpion_16
+    21300034: PSP - Lunar Silver Star Harmony - Scorpion_17
+    21300036: PSP - Lunar Silver Star Harmony - Scorpion_21
+    21300038: PSP - Lunar Silver Star Harmony - Scorpion_22
+    21300040: PSP - Lunar Silver Star Harmony - Scorpion_23
+    21300042: PSP - Lunar Silver Star Harmony - Scorpion_24
+    21300044: PSP - Lunar Silver Star Harmony - Scorpion_29
+    21300046: PSP - Lunar Silver Star Harmony - Scorpion_30
+    21300048: PSP - Lunar Silver Star Harmony - Scorpion_34
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PSP - Lunar Silver Star Harmony - Scorpion_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 433
+        width: 66
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PSP - Lunar Silver Star Harmony - Scorpion_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 434
+        width: 66
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PSP - Lunar Silver Star Harmony - Scorpion_2
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 435
+        width: 66
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PSP - Lunar Silver Star Harmony - Scorpion_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 428
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PSP - Lunar Silver Star Harmony - Scorpion_4
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 425
+        width: 76
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PSP - Lunar Silver Star Harmony - Scorpion_5
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 426
+        width: 70
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PSP - Lunar Silver Star Harmony - Scorpion_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 339
+        width: 70
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PSP - Lunar Silver Star Harmony - Scorpion_7
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 322
+        width: 86
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PSP - Lunar Silver Star Harmony - Scorpion_8
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 330
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PSP - Lunar Silver Star Harmony - Scorpion_9
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 331
+        width: 80
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PSP - Lunar Silver Star Harmony - Scorpion_10
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 338
+        width: 77
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PSP - Lunar Silver Star Harmony - Scorpion_11
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 264
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PSP - Lunar Silver Star Harmony - Scorpion_12
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 249
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PSP - Lunar Silver Star Harmony - Scorpion_13
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 248
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PSP - Lunar Silver Star Harmony - Scorpion_14
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 242
+        width: 66
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PSP - Lunar Silver Star Harmony - Scorpion_15
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 252
+        width: 83
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PSP - Lunar Silver Star Harmony - Scorpion_16
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 265
+        width: 83
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PSP - Lunar Silver Star Harmony - Scorpion_17
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 178
+        width: 75
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PSP - Lunar Silver Star Harmony - Scorpion_21
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 235
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PSP - Lunar Silver Star Harmony - Scorpion_22
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 163
+        width: 64
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PSP - Lunar Silver Star Harmony - Scorpion_23
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 171
+        width: 62
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PSP - Lunar Silver Star Harmony - Scorpion_24
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 193
+        width: 70
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PSP - Lunar Silver Star Harmony - Scorpion_29
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 152
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PSP - Lunar Silver Star Harmony - Scorpion_30
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 107
+        width: 68
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PSP - Lunar Silver Star Harmony - Scorpion_34
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 145
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

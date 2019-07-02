@@ -1,0 +1,2802 @@
+fileFormatVersion: 2
+guid: 43cb7457b303bb04a9cc11388ee01c59
+timeCreated: 1512598366
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_0
+    21300002: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_12
+    21300004: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_13
+    21300006: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_14
+    21300008: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_15
+    21300010: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_16
+    21300012: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_17
+    21300014: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_18
+    21300016: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_19
+    21300018: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_20
+    21300020: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_21
+    21300022: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_22
+    21300024: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_23
+    21300026: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_24
+    21300028: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_25
+    21300030: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_26
+    21300032: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_27
+    21300034: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_28
+    21300036: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_29
+    21300038: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_30
+    21300040: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_31
+    21300042: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_32
+    21300044: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_33
+    21300046: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_34
+    21300048: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_37
+    21300050: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_38
+    21300052: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_39
+    21300054: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_40
+    21300056: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_41
+    21300058: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_42
+    21300060: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_43
+    21300062: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_44
+    21300064: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_45
+    21300066: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_46
+    21300068: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_47
+    21300070: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_48
+    21300072: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_49
+    21300074: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_50
+    21300076: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_51
+    21300078: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_52
+    21300080: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_53
+    21300082: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_54
+    21300084: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_55
+    21300086: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_56
+    21300088: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_57
+    21300090: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_58
+    21300092: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_59
+    21300094: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_60
+    21300096: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_61
+    21300098: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_62
+    21300100: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_63
+    21300102: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_64
+    21300104: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_65
+    21300106: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_66
+    21300108: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_67
+    21300110: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_68
+    21300112: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_69
+    21300114: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_70
+    21300116: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_71
+    21300118: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_72
+    21300120: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_73
+    21300122: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_74
+    21300124: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_75
+    21300126: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_76
+    21300128: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_77
+    21300130: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_78
+    21300132: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_79
+    21300134: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_80
+    21300136: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_81
+    21300138: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_82
+    21300140: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_83
+    21300142: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_84
+    21300144: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_85
+    21300146: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_86
+    21300148: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_87
+    21300150: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_88
+    21300152: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_89
+    21300154: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_90
+    21300156: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_91
+    21300158: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_92
+    21300160: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_93
+    21300162: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_94
+    21300164: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_95
+    21300166: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_96
+    21300168: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_97
+    21300170: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_98
+    21300172: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_99
+    21300174: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_100
+    21300176: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_101
+    21300178: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_102
+    21300180: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_103
+    21300182: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_104
+    21300184: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_105
+    21300186: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_106
+    21300188: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_107
+    21300190: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_108
+    21300192: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_109
+    21300194: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_110
+    21300196: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_111
+    21300198: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_112
+    21300200: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_113
+    21300202: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_114
+    21300204: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_115
+    21300206: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_116
+    21300208: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_117
+    21300210: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_118
+    21300212: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_119
+    21300214: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_120
+    21300216: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_121
+    21300218: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_122
+    21300220: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_123
+    21300222: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_124
+    21300224: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_125
+    21300226: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_126
+    21300228: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_127
+    21300230: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_128
+    21300232: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_129
+    21300234: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_130
+    21300236: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_131
+    21300238: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_132
+    21300240: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_133
+    21300242: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_134
+    21300244: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_135
+    21300246: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_136
+    21300248: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_137
+    21300250: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_138
+    21300252: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_139
+    21300254: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_140
+    21300256: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_141
+    21300258: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_142
+    21300260: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_143
+    21300262: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_144
+    21300264: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_145
+    21300266: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_146
+    21300268: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_147
+    21300270: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_148
+    21300272: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_149
+    21300274: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_150
+    21300276: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_151
+    21300278: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_152
+    21300280: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_153
+    21300282: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_154
+    21300284: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_155
+    21300286: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_156
+    21300288: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_157
+    21300290: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_158
+    21300292: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_159
+    21300294: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_160
+    21300296: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_161
+    21300298: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_162
+    21300300: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_163
+    21300302: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_164
+    21300304: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_165
+    21300306: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_166
+    21300308: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_167
+    21300310: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_168
+    21300312: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_169
+    21300314: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_170
+    21300316: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_171
+    21300318: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_172
+    21300320: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_173
+    21300322: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_174
+    21300324: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_175
+    21300326: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_176
+    21300328: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_177
+    21300330: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_178
+    21300332: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_179
+    21300334: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_180
+    21300336: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_181
+    21300338: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_182
+    21300340: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_183
+    21300342: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_184
+    21300344: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_185
+    21300346: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_186
+    21300348: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_187
+    21300350: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_188
+    21300352: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_189
+    21300354: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_190
+    21300356: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_191
+    21300358: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_192
+    21300360: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_193
+    21300362: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_194
+    21300364: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_195
+    21300366: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_196
+    21300368: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_197
+    21300370: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_198
+    21300372: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_199
+    21300374: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_200
+    21300376: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_201
+    21300378: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_202
+    21300380: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_203
+    21300382: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_204
+    21300384: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_205
+    21300386: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_206
+    21300388: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_207
+    21300390: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_208
+    21300392: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_209
+    21300394: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_210
+    21300396: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_211
+    21300398: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_212
+    21300400: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_213
+    21300402: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_214
+    21300404: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_215
+    21300406: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_216
+    21300408: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_217
+    21300410: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_218
+    21300412: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_219
+    21300414: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_220
+    21300416: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_221
+    21300418: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_222
+    21300420: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_223
+    21300422: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_224
+    21300424: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_225
+    21300426: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_226
+    21300428: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_227
+    21300430: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_228
+    21300432: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_229
+    21300434: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_230
+    21300436: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_231
+    21300438: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_232
+    21300440: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_233
+    21300442: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_234
+    21300444: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_235
+    21300446: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_236
+    21300448: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_237
+    21300450: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_238
+    21300452: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_239
+    21300454: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_240
+    21300456: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_241
+    21300458: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_242
+    21300460: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_243
+    21300462: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_244
+    21300464: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_245
+    21300466: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_246
+    21300468: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_247
+    21300470: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_248
+    21300472: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_249
+    21300474: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_250
+    21300476: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_251
+    21300478: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_252
+    21300480: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_253
+    21300482: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_254
+    21300484: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_255
+    21300486: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_256
+    21300488: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_257
+    21300490: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_258
+    21300492: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_259
+    21300494: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_260
+    21300496: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_261
+    21300498: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_262
+    21300500: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_263
+    21300502: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_264
+    21300504: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_265
+    21300506: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_266
+    21300508: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_267
+    21300510: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_268
+    21300512: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_269
+    21300514: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_270
+    21300516: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_271
+    21300518: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_272
+    21300520: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_273
+    21300522: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_274
+    21300524: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_275
+    21300526: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_276
+    21300528: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_277
+    21300530: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_278
+    21300532: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_279
+    21300534: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_280
+    21300536: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_281
+    21300538: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_282
+    21300540: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_283
+    21300542: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_284
+    21300544: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_285
+    21300546: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_286
+    21300548: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_287
+    21300550: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_288
+    21300552: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_289
+    21300554: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_290
+    21300556: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_291
+    21300558: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_292
+    21300560: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_293
+    21300562: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_294
+    21300564: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_295
+    21300566: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_296
+    21300568: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_297
+    21300570: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_298
+    21300572: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_299
+    21300574: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_300
+    21300576: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_301
+    21300578: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_302
+    21300580: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_303
+    21300582: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_304
+    21300584: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_305
+    21300586: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_306
+    21300588: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_307
+    21300590: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_308
+    21300592: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_309
+    21300594: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_310
+    21300596: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_311
+    21300598: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_312
+    21300600: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_313
+    21300602: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_314
+    21300604: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_315
+    21300606: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_316
+    21300608: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_317
+    21300610: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_318
+    21300612: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_319
+    21300614: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_320
+    21300616: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_321
+    21300618: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_322
+    21300620: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_323
+    21300622: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_324
+    21300624: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_325
+    21300626: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_326
+    21300628: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_327
+    21300630: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_328
+    21300632: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_329
+    21300634: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_330
+    21300636: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_331
+    21300638: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_332
+    21300640: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_333
+    21300642: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_334
+    21300644: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_335
+    21300646: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_336
+    21300648: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_337
+    21300650: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_338
+    21300652: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_339
+    21300654: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_340
+    21300656: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_341
+    21300658: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_342
+    21300660: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_343
+    21300662: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_344
+    21300664: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_345
+    21300666: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_346
+    21300668: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_347
+    21300670: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_348
+    21300672: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_349
+    21300674: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_350
+    21300676: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_351
+    21300678: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_352
+    21300680: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_353
+    21300682: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_354
+    21300684: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_355
+    21300686: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_356
+    21300688: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_357
+    21300690: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_358
+    21300692: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_359
+    21300694: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_360
+    21300696: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_361
+    21300698: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_362
+    21300700: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_363
+    21300702: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_364
+    21300704: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_365
+    21300706: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_366
+    21300708: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_367
+    21300710: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_368
+    21300712: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_369
+    21300714: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_370
+    21300716: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_371
+    21300718: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_372
+    21300720: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_373
+    21300722: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_374
+    21300724: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_375
+    21300726: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_376
+    21300728: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_377
+    21300730: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_378
+    21300732: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_379
+    21300734: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_380
+    21300736: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_381
+    21300738: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_382
+    21300740: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_383
+    21300742: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_384
+    21300744: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_385
+    21300746: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_386
+    21300748: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_387
+    21300750: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_388
+    21300752: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_389
+    21300754: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_390
+    21300756: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_391
+    21300758: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_392
+    21300760: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_393
+    21300762: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_394
+    21300764: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_395
+    21300766: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_396
+    21300768: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_397
+    21300770: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_398
+    21300772: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_399
+    21300774: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_400
+    21300776: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_401
+    21300778: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_402
+    21300780: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_403
+    21300782: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_404
+    21300784: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_405
+    21300786: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_406
+    21300788: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_407
+    21300790: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_408
+    21300792: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_409
+    21300794: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_410
+    21300796: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_411
+    21300798: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_412
+    21300800: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_413
+    21300802: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_414
+    21300804: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_415
+    21300806: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_416
+    21300808: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_417
+    21300810: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_418
+    21300812: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_419
+    21300814: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_420
+    21300816: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_421
+    21300818: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_422
+    21300820: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_423
+    21300822: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_424
+    21300824: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_425
+    21300826: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_426
+    21300828: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_427
+    21300830: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_428
+    21300832: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_429
+    21300834: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_430
+    21300836: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_431
+    21300838: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_432
+    21300840: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_433
+    21300842: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_434
+    21300844: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_435
+    21300846: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_436
+    21300848: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_437
+    21300850: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_438
+    21300852: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_439
+    21300854: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_440
+    21300856: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_441
+    21300858: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_442
+    21300860: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_443
+    21300862: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_444
+    21300864: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_445
+    21300866: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_446
+    21300868: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_447
+    21300870: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_448
+    21300872: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_449
+    21300874: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_450
+    21300876: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_451
+    21300878: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_452
+    21300880: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_453
+    21300882: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_454
+    21300884: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_455
+    21300886: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_456
+    21300888: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_457
+    21300890: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_458
+    21300892: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_459
+    21300894: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_460
+    21300896: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_461
+    21300898: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_462
+    21300900: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_463
+    21300902: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_464
+    21300904: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_465
+    21300906: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_466
+    21300908: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_467
+    21300910: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_468
+    21300912: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_469
+    21300914: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_470
+    21300916: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_471
+    21300918: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_472
+    21300920: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_473
+    21300922: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_474
+    21300924: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_475
+    21300926: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_476
+    21300928: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_477
+    21300930: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_478
+    21300932: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_479
+    21300934: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_480
+    21300936: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_481
+    21300938: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_482
+    21300940: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_483
+    21300942: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_484
+    21300944: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_485
+    21300946: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_486
+    21300948: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_487
+    21300950: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_488
+    21300952: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_489
+    21300954: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_490
+    21300956: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_491
+    21300958: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_492
+    21300960: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_493
+    21300962: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_494
+    21300964: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_495
+    21300966: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_496
+    21300968: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_497
+    21300970: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_498
+    21300972: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_499
+    21300974: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_500
+    21300976: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_501
+    21300978: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_502
+    21300980: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_503
+    21300982: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_504
+    21300984: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_505
+    21300986: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_506
+    21300988: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_507
+    21300990: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_508
+    21300992: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_509
+    21300994: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_510
+    21300996: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_511
+    21300998: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_512
+    21301000: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_513
+    21301002: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_514
+    21301004: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_515
+    21301006: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_516
+    21301008: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_517
+    21301010: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_518
+    21301012: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_519
+    21301014: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_520
+    21301016: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_521
+    21301018: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_522
+    21301020: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_523
+    21301022: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_524
+    21301024: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_525
+    21301026: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_526
+    21301028: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_527
+    21301030: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_528
+    21301032: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_529
+    21301034: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_530
+    21301036: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_531
+    21301038: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_532
+    21301040: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_533
+    21301042: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_534
+    21301044: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_535
+    21301046: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_536
+    21301048: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_537
+    21301050: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_538
+    21301052: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_539
+    21301054: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_540
+    21301056: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_541
+    21301058: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_542
+    21301060: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_543
+    21301062: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_544
+    21301064: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_545
+    21301066: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_546
+    21301068: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_547
+    21301070: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_548
+    21301072: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_549
+    21301074: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_550
+    21301076: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_551
+    21301078: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_552
+    21301080: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_553
+    21301082: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_554
+    21301084: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_555
+    21301086: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_556
+    21301088: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_557
+    21301090: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_558
+    21301092: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_559
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 994
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_70
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 880
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_72
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 880
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_74
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 863
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_76
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 857
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_77
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 856
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_78
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 858
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_80
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 854
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_82
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 850
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_83
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 864
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_85
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 854
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_86
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 861
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_88
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 862
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_90
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 875
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_91
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 884
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_93
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 895
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_95
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 890
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_96
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 883
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_97
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 880
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_99
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 870
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_101
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 870
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_102
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 869
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_104
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 876
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_175
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 717
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_210
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 611
+        width: 62
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_211
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 620
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_212
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 620
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_213
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 620
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_214
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 620
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_215
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 620
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_216
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 620
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_217
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 620
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_218
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 620
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_219
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 620
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_220
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 620
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_221
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 620
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_222
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 620
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_245
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 556
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_246
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 556
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_247
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 556
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_248
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 556
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_249
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 556
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_250
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 556
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_251
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 556
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_252
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 556
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_253
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 556
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_254
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 556
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_255
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 556
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_256
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 556
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_257
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 556
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_258
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 556
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_259
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 556
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_260
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 556
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_261
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 556
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_262
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 556
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_263
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 556
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_264
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 556
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_265
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 556
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_266
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 556
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_267
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 556
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_268
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 556
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_269
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 556
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_270
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 556
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_271
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 556
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_272
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 556
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_273
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 556
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_274
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 556
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_275
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 556
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_276
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 556
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_277
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 556
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_278
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 556
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_279
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 556
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_315
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 454
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_316
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 454
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_318
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 451
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_319
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 453
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_320
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 456
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_321
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 460
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_322
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 455
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_323
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 451
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_325
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 454
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_326
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 451
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_327
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 447
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_350
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 377
+        width: 99
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_352
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 377
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_354
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 377
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_356
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 377
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_357
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 377
+        width: 101
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_359
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 377
+        width: 99
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_361
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 377
+        width: 98
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_362
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 377
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_385
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_386
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 300
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_387
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 300
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_388
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 300
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_389
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 300
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_390
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 300
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_391
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 300
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_420
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 201
+        width: 61
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_421
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 201
+        width: 61
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_422
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 201
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_423
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 201
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_424
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 202
+        width: 61
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_425
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 201
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_426
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 201
+        width: 61
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_427
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 201
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_464
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 172
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_465
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 172
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_466
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 172
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_467
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 172
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_468
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 172
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_469
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 172
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_470
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 172
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_471
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 172
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_472
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 172
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_473
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 172
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_474
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 172
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_475
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 172
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_476
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 172
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_477
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 172
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_478
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 172
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_479
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 172
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_490
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 108
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_491
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 108
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_492
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 108
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_493
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 108
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_494
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 108
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_495
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 108
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_496
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 108
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_497
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 108
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_498
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 108
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_499
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 108
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_500
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 108
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_501
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 108
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_502
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 108
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_503
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 108
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_504
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 108
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_505
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 108
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_506
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 108
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_507
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 108
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_508
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 108
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_509
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 108
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_510
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 108
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_511
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 108
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_512
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 108
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_513
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 108
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_514
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 108
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_525
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3
+        width: 62
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_526
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 3
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_527
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 4
+        width: 60
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_528
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 4
+        width: 62
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_529
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 4
+        width: 61
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_530
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 4
+        width: 61
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_531
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 3
+        width: 58
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Zombie Hamster Dookie_532
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 3
+        width: 58
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

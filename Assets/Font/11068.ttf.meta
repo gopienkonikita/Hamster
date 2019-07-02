@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 47a4ad7bbef48c14d8fcecb3b5e68100
+timeCreated: 1513176453
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Astakhov Access Degree Serif
+  fontNames:
+  - Astakhov Access Degree Serif
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
